@@ -91,5 +91,3 @@ Algumas extensões naturais do projeto seriam:
 - explorar técnicas de **explicabilidade visual**;
 - aproximar a solução de um fluxo real de produção.
 
-## Autor
-**Fábio Cruz**
