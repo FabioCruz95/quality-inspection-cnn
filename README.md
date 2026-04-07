@@ -85,6 +85,8 @@ O modelo final regularizado apresentou resultados muito fortes no conjunto de te
 ## Desenvolvimentos futuros
 Algumas extensões naturais do projeto seriam:
 
+- Testar abordagens de **transfer learning** com modelos pré-treinados, de forma a comparar o desempenho 
+com a CNN desenvolvida neste projeto;
 - testar **data augmentation** de forma controlada;
 - validar o modelo em **novos lotes de produção**;
 - estudar diferentes **limiares de decisão**;
